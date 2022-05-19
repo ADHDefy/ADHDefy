@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ADHDefy
+- 👀 I’m interested in privacy, security, and submarine sandwiches.
+- 🌱 I’m currently learning git and development basics.
+- 💞️ I’m looking to collaborate on privacy-oriented projects as I continue to develop new skills.
+- 📫 How to reach me: [Mastodon](https://koyu.space/@ADHDefy) or [Email](https://keyoxide.org/hkp/168FCC27B9BE809488674F6B6F93BFF9FF9DDD83)
